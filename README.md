@@ -448,6 +448,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Multi Chat MCP Server (Google Chat)](https://github.com/siva010928/multi-chat-mcp-server)** - Connect AI assistants like Cursor to Google Chat and beyond — enabling smart, extensible collaboration across chat platforms.
 - **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** - MySQL database integration with configurable access controls and schema inspection
 - **[Nanoleaf](https://github.com/srnetadmin/nanoleaf-mcp-server)** - Control Nanoleaf smart lights through MCP - turn on/off, adjust brightness, change colors, set effects, and discover devices
+- **[Netassist](https://github.com/Edge-Echo/mcp-netassist)** - Network and proxy diagnostics for flaky networks (Windows): GitHub reachability, system proxy status, local proxy port probing, DNS/TCP/HTTP checks, hosts conflict scan, and a doctor that suggests what to change.
 - **[Netbird](https://github.com/aantti/mcp-netbird)** - List and analyze Netbird network peers, groups, policies, and more.
 - **[Nextcloud Calendar](https://github.com/Cheffromspace/mcp-nextcloud-calendar)** - CalDAV Nectcloud calendar integration. Manage calendars, events, attendees, etc.
 - **[Nexus](https://github.com/adawalli/nexus)** - Web search server that integrates Perplexity Sonar models via OpenRouter API for real-time, context-aware search with citations
